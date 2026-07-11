@@ -1,20 +1,76 @@
-# 💫 About Me:
-Hi! I’m <strong>Dawood Butt</strong>, a <strong>Creative Frontend Developer</strong> from Lahore, Pakistan. <br>
-I build <strong>modern, responsive, and interactive web experiences</strong> using HTML, CSS, Tailwind CSS, JavaScript, and React.js. (Context API, Redux) <br>
-I focus on <strong>clean code, scalable component architecture, and intuitive UI/UX</strong>.  <br><br>Currently, I’m expanding toward **Full Stack Development** to create end-to-end web applications.<br><br>---<br><br>**🔭 I’m currently working on**<br>- High-performance *React frontends*  <br>- *Reusable UI component library* with Tailwind CSS  <br>- Real-world responsive web applications  <br><br>**👯 I’m looking to collaborate on**<br>- Modern React projects  <br>- UI/UX-heavy applications  <br>- Open-source frontend tools  <br>- Creative landing pages and web apps  <br><br>**🤝 I’m looking for help with**<br>- Backend development using *Node.js & Express** <br>- MongoDB architecture & database design  <br>- Advanced full-stack project workflows  <br><br>**🌱 I’m currently learning**<br>- Advanced React patterns and Hooks  <br>- State management with Context API  <br>- Full Stack Development (Node.js + Express + MongoDB)  <br>- Frontend performance optimization  <br><br>**💬 Ask me about**<br>- React, JavaScript, Tailwind CSS  <br>- Responsive UI/UX & component-driven architecture  <br>- Pixel-perfect frontend design  <br>- Web performance optimization  <br><br>**⚡ Fun Fact**<br>I love turning *simple ideas* into *beautiful, fast, and interactive web interfaces*. 🎨✨<br><br>---<br><br> **💻 Skills**<br><br>**🚀 Frontend Development**<br>- HTML5 / CSS3 / JavaScript  <br>- Tailwind CSS  <br>- React.js (Hooks, Context API, Redux) <br>- Responsive Web Design  <br>- Component Architecture  <br><br>**🛠 Tools & Platforms**<br>- Canva  <br>- Git & GitHub  <br>- VS Code  <br>- Figma  <br>- Netlify / Vercel  <br><br>**🎯 Soft Skills**<br>- Problem Solving  <br>- Creativity  <br>- Communication  <br><br>---<br><br>**📂 Projects**<br><br>**Nova E-Commerce**<br> A fully responsive e-commerce frontend built with *React & Tailwind CSS*, featuring interactive product listings, dynamic cart, search, and smooth UI transitions.<br>**Tech:** React, Tailwind CSS <br>https://nova-one-taupe.vercel.app/<br><br>**Jobster Multi-Page UI**<br>Multi-page React web UI including Build Your Resume, Profile, Change Password, and Subscription pages, with responsive sidebar navigation, interactive layout, and clean, user-friendly design converted directly from the original design.<br>**Tech:** React, Tailwind CSS <br>https://jobster-x.vercel.app/<br><br>**Temperature Converter**<br>Convert temperatures instantly between Celsius, Fahrenheit, and Kelvin with a responsive, user-friendly interface.  <br>**Tech:** HTML, CSS, JavaScript  <br>https://tempeconv.netlify.app/<br><br> **💼 Experience**<br><br>**Frontend Developer | JobsterX**<br>*2025 – Present*  <br>- Developed responsive web interfaces using React, Tailwind CSS, and JavaScript  <br>- Built reusable UI components and optimized performance  <br>- Collaborated with the design team for smooth UX  <br><br>**Computer Science Student**<br>*2022 – Present*  <br>- Strong academic foundation and active hands-on project experience  <br>- Continuous skill development and participation in coding communities  <br><br>---<br><br>**🎯 Future Goals**<br>- Master **Full Stack Development** (React, Node.js, Express, MongoDB)  <br>- Advanced React development and component-driven architecture  <br>- Work on real-world projects and remote opportunities  <br>- Freelance & contract work and open-source contributions  <br><br>---<br><br>**📫 Contact**<br>**Email:** buttdaud94@gmail.com  <br>**Phone:** +92 3084161568  <br>**Portfolio:** [dawoodwebportfolio.netlify.app](https://dawoodwebportfolio.netlify.app/)  <br>**LinkedIn:** [linkedin.com/in/dawood-butt-413192282](https://www.linkedin.com/in/dawood-butt-413192282)  <br>**Location:** Lahore, Pakistan  
+# Dawood Butt
+### Frontend Developer — React.js Ecosystem
 
+I build production-grade frontend systems with a focus on component architecture, state management, and performance — not just UI that looks good, but code that scales and holds up under real usage.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/dawood-butt-413192282) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:buttdaud94@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dawood131&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Dawood131&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dawood131&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Currently working full-time as a Frontend Developer, integrating APIs and building complete platform features in close collaboration with backend teams. Expanding into full-stack development (Node.js, Express, MongoDB) to own the entire request lifecycle, not just the client side.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Dawood131&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Focus Areas
+
+**Component Architecture** — Designing reusable, composable UI systems rather than one-off components. Structuring state (Context API, Redux, Redux Toolkit) so applications stay maintainable as they grow.
+
+**Data & Performance** — Using React Query for efficient data fetching, caching, and sync between client and server state. Optimizing render performance and load times rather than assuming they're fine.
+
+**API Integration** — Working directly with backend teams to design and consume APIs, treating integration as a core engineering concern, not an afterthought.
+
+**Design-to-Code Fidelity** — Converting Figma specs into pixel-accurate, responsive interfaces without visual or structural drift.
+
+---
+
+## Tech Stack
+
+**Core:** JavaScript (ES6+), React.js, HTML5, CSS3
+**State Management:** Redux, Redux Toolkit, Context API
+**Data Fetching:** React Query
+**Styling:** Tailwind CSS
+**Tooling:** Git, GitHub, VS Code, Figma
+**Currently Learning:** Node.js, Express, MongoDB
+
+---
+
+## Selected Work
+
+### CVEX — AI-Powered CV Builder & Analyzer
+Full-stack SaaS product for building and analyzing resumes. Users generate ATS-optimized CVs and receive keyword-match scoring against job descriptions via Gemini API integration, with Supabase handling backend persistence.
+`React` `Context API` `Gemini API` `Supabase` `Tailwind CSS`
+→ [Live](https://cvex-builder-analyzer.vercel.app/)
+
+### Nova — E-Commerce Platform
+Full e-commerce frontend built from scratch — product catalog, cart, checkout, and wishlist flows built around real-world shopping UX, backed by Redux Toolkit for predictable state management at scale.
+`React` `Redux` `Redux Toolkit` `CSS`
+→ [Live](https://nova-one-taupe.vercel.app/)
+
+### JobsterX — Multi-Page Application UI
+Multi-page internal tool UI — resume builder, profile management, and subscription flows — with a persistent sidebar navigation pattern and consistent design system.
+`React` `Tailwind CSS`
+→ [Live](https://jobster-x.vercel.app/)
+
+---
+
+## Experience
+
+**Frontend Developer — Offneo** | *March 2026 – Present*
+Building a complete web application platform in an onsite, cross-functional environment.
+- Own frontend architecture decisions in collaboration with backend team, with API integration as a core responsibility
+- Build scalable UI using React, Tailwind CSS, and Redux
+- Use React Query to manage server state, caching, and data synchronization
+
+**Frontend Developer, Intern — JobsterX** | *Sep 2025 – Mar 2026*
+- Built multi-page responsive interfaces with reusable component patterns
+- Implemented Redux-based state management across the application
+
+---
+
+## Contact
+
+**Portfolio:** [dawood-portfolio-delta.vercel.app](https://dawood-portfolio-delta.vercel.app/)
+**LinkedIn:** [muhammad-dawood-butt](https://www.linkedin.com/in/muhammad-dawood-butt-413192282)
+**Email:** buttdaud94@gmail.com
+
+---
+
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Dawood131&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![Streak](https://streak-stats.demolab.com?user=Dawood131&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dawood131&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
