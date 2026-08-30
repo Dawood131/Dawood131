@@ -74,10 +74,5 @@ Building a complete web application platform in an onsite, cross-functional envi
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dawood131&show_icons=true&theme=react&hide_border=true&count_private=true&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&bg_color=0d1117" />
-  <img height="165" src="https://streak-stats.demolab.com?user=Dawood131&theme=react&hide_border=true&background=0d1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dawood131&layout=compact&theme=react&hide_border=true&title_color=00D4FF&text_color=c9d1d9&bg_color=0d1117" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Dawood131&theme=react&hide_border=true&background=0d1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" />
 </p>
