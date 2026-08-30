@@ -1,4 +1,4 @@
-# Dawood Butt
+# Muhammad Dawood Butt
 ### Frontend Developer — React.js Ecosystem
 
 I build production-grade frontend systems with a focus on component architecture, state management, and performance — not just UI that looks good, but code that scales and holds up under real usage.
