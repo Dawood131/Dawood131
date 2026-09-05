@@ -1,6 +1,6 @@
 # Muhammad Dawood Butt
 
-### Frontend Developer | React.js Ecosystem
+### Frontend Developer | React.js & Next.js Ecosystem
 
 I build production-grade frontend systems with a focus on component architecture, state management, and performance, not just UI that looks good, but code that scales and holds up under real usage.
 
@@ -22,16 +22,31 @@ Currently working full-time as a Frontend Developer, integrating APIs and buildi
 
 ## Tech Stack
 
-**Core:** JavaScript (ES6+), React.js, HTML5, CSS3
-**State Management:** Redux, Redux Toolkit, Context API
-**Data Fetching:** React Query
-**Styling:** Tailwind CSS
-**Tooling:** Git, GitHub, VS Code, Figma
-**Currently Learning:** Node.js, Express, MongoDB
+**Languages:** JavaScript (ES6+), HTML5, CSS3
+
+**Frontend:** React.js, Next.js, Redux Toolkit, Context API, React Query, Tailwind CSS
+
+**Tools & Platforms:** Git, GitHub, Figma, VS Code, Postman, Swagger, Vercel, Netlify, ChatGPT, Claude, Cursor
+
+**Currently Learning:** Node.js, Express.js, MongoDB (Full-Stack Development)
 
 ---
 
 ## Selected Work
+
+### Connect Job | HR Recruitment Platform
+Complete recruitment platform built from scratch as the sole frontend developer: job postings, interview scheduling, talent rating, job-linked messaging, and a standalone professional networking module, with role-based access across multiple companies and English/French localization.
+
+`React` `Redux Toolkit` `React Query` `i18next` `Tailwind CSS`
+
+→ [Case Study](https://dawood131.github.io/connectjob-case-study/)
+
+### Attendix | Attendance & Payroll System
+Enterprise-grade attendance management system handling employee check-in/out, leave requests, payroll, and geofenced location-based tracking. Built as part of a cross-functional team, contributing to frontend modules as well as a portion of the API work alongside the backend team. Live in the client's production environment.
+ 
+`React` `Redux Toolkit` `REST API` `Maps Integration` `Tailwind CSS`
+ 
+→ [Case Study](https://dawood131.github.io/attendix-case-study/)
 
 ### CVEX | AI-Powered CV Builder & Analyzer
 Full-stack SaaS product for building and analyzing resumes. Users generate ATS-optimized CVs and receive keyword-match scoring against job descriptions via Gemini API integration, with Supabase handling backend persistence.
