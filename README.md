@@ -24,7 +24,7 @@ Currently working full-time as a Frontend Developer, integrating APIs and buildi
 
 **Languages:** JavaScript (ES6+), HTML5, CSS3
 
-**Frontend:** React.js, Next.js, Redux Toolkit, Context API, React Query, Tailwind CSS
+**Frontend:** React.js, Next.js, Redux Toolkit, Context API, React Query, Tailwind CSS, GSAP
 
 **Tools & Platforms:** Git, GitHub, Figma, VS Code, Postman, Swagger, Vercel, Netlify, ChatGPT, Claude, Cursor
 
