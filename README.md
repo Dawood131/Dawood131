@@ -55,6 +55,13 @@ Full-stack SaaS product for building and analyzing resumes. Users generate ATS-o
 
 → [Live](https://cvex-builder-analyzer.vercel.app/)
 
+### Suleman Automates | AI Voice Receptionist for Dental Practices
+24/7 AI phone answering platform built for a dental-practice client: patients book, reschedule, and cancel appointments by voice, after-hours emergency calls are triaged automatically, and every booking syncs directly with the practice's PMS in real time. Includes an interactive ROI calculator estimating revenue recovered from missed calls.
+
+`React` `Tailwind CSS` `GSAP` `Lenis` `Calendly Integration`
+
+→ [Live](https://suleman-automates-xi.vercel.app/)
+
 ### Nova | E-Commerce Platform
 Full e-commerce frontend built from scratch, product catalog, cart, checkout, and wishlist flows built around real-world shopping UX, backed by Redux Toolkit for predictable state management at scale.
 
