@@ -46,7 +46,7 @@ Enterprise-grade attendance management system handling employee check-in/out, le
  
 `React` `Redux Toolkit` `REST API` `Maps Integration` `Tailwind CSS`
  
-→ [Case Study](https://dawood131.github.io/attendix-case-study/)
+→ [Live](https://testbox.offneo.com/attendix/backend/)
 
 ### CVEX | AI-Powered CV Builder & Analyzer
 Full-stack SaaS product for building and analyzing resumes. Users generate ATS-optimized CVs and receive keyword-match scoring against job descriptions via Gemini API integration, with Supabase handling backend persistence.
