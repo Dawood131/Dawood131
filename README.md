@@ -95,7 +95,7 @@ Building a complete web application platform in an onsite, cross-functional envi
 ## Contact
 
 **Portfolio:** [dawood-portfolio-omega.vercel.app](https://dawood-portfolio-omega.vercel.app/)
-**LinkedIn:** [muhammad-dawood-butt](https://www.linkedin.com/in/muhammad-dawood-butt-413192282)
+**LinkedIn:** [muhammad-dawood-butt](https://www.linkedin.com/in/muhammaddawoodbutt/)
 **Email:** buttdaud94@gmail.com
 
 ---
