@@ -52,9 +52,9 @@ Complete recruitment platform built from scratch as the sole frontend developer:
 → [Case Study](https://dawood131.github.io/connectjob-case-study/)
 
 ### Attendix | Attendance & Payroll System
-Enterprise-grade attendance management system handling employee check-in/out, leave requests, payroll, and geofenced location-based tracking. Built as part of a cross-functional team, contributing to frontend modules as well as a portion of the API work alongside the backend team. Live in the client's production environment.
+Enterprise attendance management system covering employee check-in/out, leave requests, payroll, and location-based tracking. Built as part of a cross-functional team: I developed frontend modules and contributed basic-level API work alongside the backend team. Live in the client's production environment.
 
-`React` `Redux Toolkit` `REST API` `Maps Integration` `Tailwind CSS`
+`React` `Redux Toolkit` `REST API` `i18next `Tailwind CSS`
 
 → [Live](https://testbox.offneo.com/attendix/backend/)
 
