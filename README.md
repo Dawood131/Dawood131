@@ -1,6 +1,16 @@
+<div align="center">
+
+<img src="./muhammad-dawood-butt.jpg" alt="Muhammad Dawood Butt, Frontend Developer in Lahore" width="180" />
+
 # Muhammad Dawood Butt
 
-### Frontend Developer | React.js & Next.js Ecosystem
+### Frontend Developer | React.js & Next.js | Lahore, Pakistan
+
+[Portfolio](https://muhammad-dawood-butt.is-a.dev) · [LinkedIn](https://www.linkedin.com/in/muhammaddawoodbutt) · [Email](mailto:buttdaud94@gmail.com)
+
+</div>
+
+---
 
 I build production-grade frontend systems with a focus on component architecture, state management, and performance, not just UI that looks good, but code that scales and holds up under real usage.
 
@@ -43,9 +53,9 @@ Complete recruitment platform built from scratch as the sole frontend developer:
 
 ### Attendix | Attendance & Payroll System
 Enterprise-grade attendance management system handling employee check-in/out, leave requests, payroll, and geofenced location-based tracking. Built as part of a cross-functional team, contributing to frontend modules as well as a portion of the API work alongside the backend team. Live in the client's production environment.
- 
+
 `React` `Redux Toolkit` `REST API` `Maps Integration` `Tailwind CSS`
- 
+
 → [Live](https://testbox.offneo.com/attendix/backend/)
 
 ### CVEX | AI-Powered CV Builder & Analyzer
@@ -94,8 +104,8 @@ Building a complete web application platform in an onsite, cross-functional envi
 
 ## Contact
 
-**Portfolio:** [dawood-portfolio-omega.vercel.app](https://dawood-portfolio-omega.vercel.app/)
-**LinkedIn:** [muhammad-dawood-butt](https://www.linkedin.com/in/muhammaddawoodbutt/)
+**Portfolio:** [muhammad-dawood-butt.is-a.dev](https://muhammad-dawood-butt.is-a.dev)
+**LinkedIn:** [muhammaddawoodbutt](https://www.linkedin.com/in/muhammaddawoodbutt)
 **Email:** buttdaud94@gmail.com
 
 ---
