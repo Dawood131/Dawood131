@@ -102,6 +102,14 @@ Building a complete web application platform in an onsite, cross-functional envi
 
 ---
 
+## Certifications
+
+**Node.js, Express, MongoDB & More: The Complete Bootcamp**, Udemy (42 hours), Oct 2026
+
+→ [Verify certificate](https://www.udemy.com/certificate/UC-3c6c0a7b-e142-4635-b216-dad5f4cf97bb/)
+
+---
+
 ## Contact
 
 **Portfolio:** [muhammad-dawood-butt.is-a.dev](https://muhammad-dawood-butt.is-a.dev)
