@@ -45,18 +45,18 @@ Currently working full-time as a Frontend Developer, integrating APIs and buildi
 ## Selected Work
 
 ### HR Web Platform | Frontend Developer
-Sole frontend developer on a web-based HR and recruitment platform, building the entire frontend from scratch. Delivered job posting and interview scheduling flows, talent rating, job-linked messaging, and a standalone professional networking module, with role-based access across multiple companies and multilingual support. Structured application state with Redux Toolkit and handled server state, caching, and data sync with React Query, working closely with the backend team on API integration.
+Sole frontend developer on a web-based HR and recruitment platform built at Offneo, building the entire frontend from scratch. Delivered job posting and interview scheduling flows, talent rating, job-linked messaging, and a standalone professional networking module, with role-based access across multiple companies and multilingual support. Structured application state with Redux Toolkit and handled server state, caching, and data sync with React Query, working closely with the backend team on API integration.
 
 `React` `Redux Toolkit` `React Query` `i18next` `Tailwind CSS`
 
-→ [Case Study](https://dawood131.github.io/connectjob-case-study/)
+→ [Case Study](https://dawood131.github.io/hr-platform-case-study/)
 
 ### Workforce Management Web App | Frontend Developer
-Frontend developer on an enterprise attendance and workforce management application, working in a cross-functional team. Developed frontend modules for employee check-in/out, leave requests, payroll, and location-based tracking, integrated REST APIs, and contributed basic-level API work alongside the backend team. Delivered to the client's production environment.
+Frontend developer on a workforce management web application built at Offneo, working in a cross-functional team. Developed frontend modules for employee check-in/out, leave requests, payroll, and location-based tracking, integrated REST APIs, and contributed basic-level API work alongside the backend team.
 
-`React` `Redux Toolkit` `REST API` `i18next` `Tailwind CSS`
+`React` `Redux Toolkit` `REST API` `Tailwind CSS`
 
-→ [Case Study](https://dawood131.github.io/attendix-case-study/)
+→ [Case Study](https://dawood131.github.io/workforce-management-case-study/)
 
 ### CVEX | AI-Powered CV Builder & Analyzer
 Full-stack SaaS product for building and analyzing resumes. Users generate ATS-optimized CVs and receive keyword-match scoring against job descriptions via Gemini API integration, with Supabase handling backend persistence.
