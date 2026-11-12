@@ -6,7 +6,7 @@
 
 ### Frontend Developer | React.js & Next.js | Lahore, Pakistan
 
-[Portfolio](https://muhammad-dawood-butt.is-a.dev) · [LinkedIn](https://www.linkedin.com/in/muhammaddawoodbutt) · [Email](mailto:buttdaud94@gmail.com)
+[Portfolio](https://muhammad-dawood-butt.is-a.dev) · [LinkedIn](https://www.linkedin.com/in/muhammaddawoodbutt) · [Email](mailto:dawoodbutt.dev@gmail.com)
 
 </div>
 
@@ -115,7 +115,7 @@ Building web application platforms in an onsite, cross-functional environment.
 
 **Portfolio:** [muhammad-dawood-butt.is-a.dev](https://muhammad-dawood-butt.is-a.dev)
 **LinkedIn:** [muhammaddawoodbutt](https://www.linkedin.com/in/muhammaddawoodbutt)
-**Email:** buttdaud94@gmail.com
+**Email:** dawoodbutt.dev@gmail.com
 
 ---
 
