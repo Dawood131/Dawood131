@@ -32,7 +32,7 @@ Currently working full-time as a Frontend Developer, integrating APIs and buildi
 
 ## Tech Stack
 
-**Languages:** JavaScript (ES6+), HTML5, CSS3
+**Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3
 
 **Frontend:** React.js, Next.js, Redux Toolkit, Context API, React Query, i18next, Tailwind CSS, GSAP
 
@@ -71,6 +71,13 @@ Full-stack SaaS product for building and analyzing resumes. Users generate ATS-o
 `React` `Tailwind CSS` `GSAP` `Lenis` `Calendly Integration`
 
 → [Live](https://suleman-automates-xi.vercel.app/)
+
+### Shahbaz Trader | Heavy-Duty Truck Parts Website
+Production website for a heavy-duty truck parts supplier in Lahore, built with Next.js 15 and TypeScript. Bilingual (English/Urdu with RTL), product catalogue by brand and category, and a multi-item enquiry list that sends a ready-made WhatsApp message. Includes a scroll-driven gear animation and a fully responsive layout.
+
+`Next.js 15` `TypeScript` `Tailwind CSS` `i18n (EN/UR, RTL)` `Canvas Animation`
+
+→ [Live](https://www.shahbaztrader.com.pk/)
 
 ### Nova | E-Commerce Platform
 Full e-commerce frontend built from scratch, product catalog, cart, checkout, and wishlist flows built around real-world shopping UX, backed by Redux Toolkit for predictable state management at scale.
