@@ -75,7 +75,7 @@ Full-stack SaaS product for building and analyzing resumes. Users generate ATS-o
 ### Shahbaz Trader | Heavy-Duty Truck Parts Website
 Production website for a heavy-duty truck parts supplier in Lahore, built with Next.js 15 and TypeScript. Bilingual (English/Urdu with RTL), product catalogue by brand and category, and a multi-item enquiry list that sends a ready-made WhatsApp message. Includes a scroll-driven gear animation and a fully responsive layout.
 
-`Next.js 15` `TypeScript` `Tailwind CSS` `i18n (EN/UR, RTL)` `Canvas Animation`
+`Next.js 15` `TypeScript` `Tailwind CSS` `GSAP` `Lenis` `Zustand` `i18n (EN/UR, RTL)` `Canvas Animation`
 
 → [Live](https://www.shahbaztrader.com.pk/)
 
